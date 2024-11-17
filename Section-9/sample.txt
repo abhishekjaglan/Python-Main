@@ -1,0 +1,6 @@
+Hello this is the worlding speak
+this is a new line after worlding.
+Thats how you change or write over a file you "w" doofus
+first line 
+second line 
+third line 
