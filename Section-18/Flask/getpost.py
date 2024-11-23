@@ -21,5 +21,10 @@ def form():
         return f"Hello {name}"
     return render_template('form.html')
 
+@app.route('/submit', methods=['POST'])
+def submit():
+    name=request.form['name']
+    return f"Hello {name} from /submit"
+
 if __name__ == '__main__':
     app.run(port=2024, debug=True)
