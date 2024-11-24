@@ -8,3 +8,32 @@
 2024-11-24 13:53:02 - root - WARNING - This is warning message
 2024-11-24 13:53:02 - root - ERROR - This is error message
 2024-11-24 13:53:02 - root - CRITICAL - This is critical message
+2024-11-24 15:46:06 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:46:06 - ArithmeticApp - DEBUG - Adding 987-324: 663
+2024-11-24 15:46:06 - ArithmeticApp - DEBUG - Adding 234*64: 14976
+2024-11-24 15:50:18 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:50:18 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-24 15:50:18 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-24 15:50:18 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-24 15:53:50 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:53:50 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-24 15:53:50 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-24 15:53:50 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-24 15:56:50 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:56:50 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-24 15:56:50 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-24 15:56:50 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-24 15:57:39 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:57:39 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-24 15:57:39 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-24 15:57:39 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-24 15:58:12 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:58:12 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-24 15:58:12 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-24 15:58:12 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-24 15:58:12 - ArithmeticApp - ERROR - Division by zero error
+2024-11-24 15:58:36 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-24 15:58:36 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-24 15:58:36 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-24 15:58:36 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-24 15:58:36 - ArithmeticApp - ERROR - Division by zero error: division by zero
