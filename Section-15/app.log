@@ -37,3 +37,12 @@
 2024-11-24 15:58:36 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
 2024-11-24 15:58:36 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
 2024-11-24 15:58:36 - ArithmeticApp - ERROR - Division by zero error: division by zero
+2024-11-25 09:14:57 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-25 09:14:57 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-25 09:14:57 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-25 09:14:57 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-25 09:15:53 - ArithmeticApp - DEBUG - Adding 5+9: 14
+2024-11-25 09:15:53 - ArithmeticApp - DEBUG - Subtracting 987-324: 663
+2024-11-25 09:15:53 - ArithmeticApp - DEBUG - Multiplying 234*64: 14976
+2024-11-25 09:15:53 - ArithmeticApp - DEBUG - Dividing 45/15: 3.0
+2024-11-25 09:15:53 - ArithmeticApp - ERROR - Division by zero error: division by zero
